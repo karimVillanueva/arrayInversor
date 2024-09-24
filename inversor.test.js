@@ -1,5 +1,4 @@
 /* eslint-env jest */
-// inversor.test.js
 const inversor = require('./index');
   
 describe('inversor', () => {
